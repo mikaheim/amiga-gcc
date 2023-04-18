@@ -51,6 +51,7 @@ graphics/gfxmacros.h
 graphics/gfxnodes.h
 graphics/graphint.h
 graphics/layers.h
+graphics/monitor.h
 graphics/rastport.h
 graphics/regions.h
 graphics/sprite.h
